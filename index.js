@@ -1,1 +1,1 @@
-node -v
+execSync("node -v")
