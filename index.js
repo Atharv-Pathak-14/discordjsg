@@ -1,1 +1,1 @@
-execSync("node -v")
+process.version
